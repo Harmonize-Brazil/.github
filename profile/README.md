@@ -44,11 +44,11 @@ This work is supported by the Wellcome Trust grant number 224694/Z/21/Z.
 [![Linkedin Badge](https://img.shields.io/badge/-Marcos_Rodrigues-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-rodrigues-3a59a38/)](https://www.linkedin.com/in/marcos-rodrigues-3a59a38/)
 [![Orcid Badge](https://img.shields.io/badge/-Marcos_Rodrigues-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0002-9199-6928)](https://orcid.org/0000-0002-9199-6928)
 
-- Leonardo Becker
-[![GitHub Badge](https://img.shields.io/badge/-leobeckerdaluz-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/leobeckerdaluz) 
-[![Gmail Badge](https://img.shields.io/badge/-leobeckerdaluz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:leobeckerdaluz@gmail.com)](mailto:leobeckerdaluz@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Leonardo_Becker_da_Luz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leobeckerdaluz/)](https://www.linkedin.com/in/leobeckerdaluz/)
-[![Orcid Badge](https://img.shields.io/badge/-Leonardo_Becker_da_Luz-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0003-2535-7658)](https://orcid.org/0000-0003-2535-7658)
+- Luana Becker
+[![GitHub Badge](https://img.shields.io/badge/-luanabeckerdaluz-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/luanabeckerdaluz)
+[![Gmail Badge](https://img.shields.io/badge/-luanabeckerdaluz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luanabeckerdaluz@gmail.com)](mailto:luanabeckerdaluz@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Luana_Becker_da_Luz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leobeckerdaluz/)](https://www.linkedin.com/in/leobeckerdaluz/)
+[![Orcid Badge](https://img.shields.io/badge/-Luana_Becker_da_Luz-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0003-2535-7658)](https://orcid.org/0000-0003-2535-7658)
 
 - Yuri Domaradzki
 [![GitHub Badge](https://img.shields.io/badge/-YuriDomaradzki-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/YuriDomaradzki)
