@@ -56,4 +56,10 @@ This work is supported by the Wellcome Trust grant number 224694/Z/21/Z.
 [![Linkedin Badge](https://img.shields.io/badge/-Yuri_Domaradzki_Moreira_Nunes-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-domaradzki/)](https://www.linkedin.com/in/yuri-domaradzki/)
 [![Orcid Badge](https://img.shields.io/badge/-Yuri_Domaradzki_Moreira_Nunes-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0009-0007-2829-4345)](https://orcid.org/0009-0007-2829-4345)
 
+- Gabriel Sansigolo
+[![GitHub Badge](https://img.shields.io/badge/-GSansigolo-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/GSansigolo)
+[![Gmail Badge](https://img.shields.io/badge/-gabrielsansigolo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gabrielsansigolo@gmail.com)](mailto:gabrielsansigolo@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Sansigolo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-sansigolo-9ab7b0ab/)](https://www.linkedin.com/in/gabriel-sansigolo-9ab7b0ab/)
+[![Orcid Badge](https://img.shields.io/badge/-Gabriel_Sansigolo-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0009-0007-2829-4345)](https://orcid.org/0000-0003-0789-5858)
+
 ---
