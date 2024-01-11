@@ -20,7 +20,7 @@ https://b64.io/ -- image to base64
 https://www.reduceimages.com/ -- reduce image icon png to size of 23px
 -->
 
-<h3 align="left">Hello, We are the Harmonize Team Brazil! ✨:artificial_satellite::computer:</h3>
+<h3 align="left">Hello, We are the Harmonize Team Brazil! ✨ :artificial_satellite: :computer: </h3>
 
 ---
 
